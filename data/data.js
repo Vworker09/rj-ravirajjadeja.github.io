@@ -1,4 +1,4 @@
-﻿var SITE_URL = 'file:///E:/xampp/htdocs/BalajiInfoway/balajiinfoway.in/';
+﻿var SITE_URL = 'https://rj-ravirajjadeja.github.io';
 var site_data
 
 /* Menus */ = {  
@@ -27,11 +27,6 @@ var site_data
             "title" : "Contact",
             "slug" : "contact",
             "file_name" : "contact.html",
-        },
-        {  
-            "title" : "Home",
-            "slug" : "home",
-            "file_name" : "home.html",
         }
     ]  
 };
