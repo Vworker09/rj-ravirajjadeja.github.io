@@ -1,4 +1,4 @@
-﻿var SITE_URL = 'https://rj-ravirajjadeja.github.io';
+﻿var SITE_URL = 'https://rj-ravirajjadeja.github.io/';
 var site_data
 
 /* Menus */ = {  
